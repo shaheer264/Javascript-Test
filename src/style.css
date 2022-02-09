@@ -1,0 +1,14 @@
+* {
+    margin : 2%;
+}
+
+.number1 {
+    border: 1px solid red;
+}
+.name1 {
+    border: 1px solid red;
+}
+#error {
+    font-size: 15px;
+    color: red;
+}
